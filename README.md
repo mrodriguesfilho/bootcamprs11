@@ -1,3 +1,3 @@
 # bootcamprs11
 
-Aplicação desenvolvida no BootCamp 11 da RocketSeat
+Application developed during the 11th BootCamp from RocketSeat
