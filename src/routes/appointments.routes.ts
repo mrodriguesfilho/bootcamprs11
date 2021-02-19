@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import { parseISO } from 'date-fns';
-import { getCustomRepository, SimpleConsoleLogger } from 'typeorm';
+import { getCustomRepository } from 'typeorm';
 import AppointmentsRepository from '../repositories/AppointmentsRepository';
 import CreateAppointmentService from '../services/CreateAppointmentService';
 import ensureAuthenticated from '../middlewares/ensureAuthenticated';
